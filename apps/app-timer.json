@@ -1,20 +1,20 @@
 {
   "name": "App Timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "released": "2026-10-18",
-  "notes": "First published build",
+  "notes": "Self-update, tamper alerts and the self-healing guard",
   "files": [
     {
       "target": "AppTimer.exe",
-      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.0/AppTimer.exe",
-      "sha256": "c148176a446c25101a4aa7fa2cd2272b4b9d2ae73019f71172bd500e757c59bb",
-      "size": 19930150
+      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.1/AppTimer.exe",
+      "sha256": "72ba8dbbce0b9b35a926f23224efc5d3d5bd4a1e8b429485a9172d1ff7ebf200",
+      "size": 19931082
     },
     {
       "target": "AppTimerGuard.exe",
-      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.0/AppTimerGuard.exe",
-      "sha256": "8162e114b047607b0334190ca6f631a5f9907903287713576e0a89a38484d3ce",
-      "size": 9281097
+      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.1/AppTimerGuard.exe",
+      "sha256": "b11b04623ddb0a99bfd85969fb2952441f62cda69ecf149da8291133d6131014",
+      "size": 9280721
     }
   ]
 }
