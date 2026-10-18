@@ -1,20 +1,20 @@
 {
   "name": "App Timer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "released": "2026-10-18",
-  "notes": "Builds also land in the shared apps folder",
+  "notes": "Full uninstaller, behind the settings password",
   "files": [
     {
       "target": "AppTimer.exe",
-      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.3/AppTimer.exe",
-      "sha256": "05910c7811205e612d8f66e87234b0845aafd3e97b352741b9f993bdb05c1768",
-      "size": 19931123
+      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.4/AppTimer.exe",
+      "sha256": "ce2c205c09f96059bf39b6bade6bd7c124e91c4b06ce43a362729b97cb37582e",
+      "size": 19934791
     },
     {
       "target": "AppTimerGuard.exe",
-      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.3/AppTimerGuard.exe",
-      "sha256": "f773a479a53b0429b48330b7140aa5be7fa224ee86591f1833903bb183a21b4a",
-      "size": 9281935
+      "url": "https://github.com/Abdullah-Habashy/habashy-releases/releases/download/app-timer-v1.0.4/AppTimerGuard.exe",
+      "sha256": "fdd89f495cfd824bf6c96d1fc4147f37af90d954383dff4a46ed1a5a0a25f3cb",
+      "size": 9282415
     }
   ]
 }
